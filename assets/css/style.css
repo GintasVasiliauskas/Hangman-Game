@@ -1,0 +1,44 @@
+html {
+    background-image: url("../images/asfalt.png");
+    margin:auto;
+}
+
+article {
+    text-align: center;
+    margin: 40px 0;
+}
+
+h1 {
+    font-size: 4em;
+    margin: 20px 0;
+}
+h2{
+    font-size: 3em;
+    margin: 20px 0;
+}
+
+body {
+    width: 70%;
+    margin:auto;
+    color: aliceblue;
+}
+div {
+    margin: 30px 0;
+}
+.word {
+    font-size: 2em;
+    letter-spacing: 2px;
+}
+#empty-div {
+    padding: 20px 0;
+    border-style: solid none;
+    border-color: white;
+    border-width: 5px;
+    height: 280px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.answer {
+    font-size: 2em;
+}
